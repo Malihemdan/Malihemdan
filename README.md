@@ -24,9 +24,7 @@
 <b>🛠 Tech Stack</b><br><br>
 Languages:  
 <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-SQL-DC8F0F?logo=MySQL&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
+
 
 Frameworks & Libraries:  
 <img src="https://img.shields.io/badge/-Tkinter-2C2D72?logo=python&logoColor=white&style=flat">&nbsp;
